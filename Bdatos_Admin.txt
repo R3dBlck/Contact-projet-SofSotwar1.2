@@ -1,0 +1,9 @@
+laura;T;T;T;T;T;
+hugo;F;F;F;T;F;
+paul;T;T;F;T;F;
+noel;F;F;F;F;F;
+David;T;T;F;T;F;
+hayer;T;T;T;F;T;
+louis;T;T;T;T;T;
+javier;T;T;F;T;F;
+kevin;T;T;F;T;F;
